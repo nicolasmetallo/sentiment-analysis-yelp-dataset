@@ -1,5 +1,8 @@
 # sentiment-analysis-yelp-dataset
-Technical report of our presentation Yelp: “Startup Survival Kit”. All necessary R files are attached along with a brief explanation in this file. NYU Business Analytics 2016 Course
+NYU Tandon School of Engineering Business Analytics. Technical report named “Startup Survival Kit”, where we analyze thousands of Yelp reviews to find correlations between sentiment, restaurant score, and bad reviews. Our objective is to find what are some of the drivers and bottlenecks for success for small new restaurants. All necessary R files are attached along with a brief explanation in this file.
+
+![alt text](https://i.imgur.com/sT3JqdB.png "Good food vs bad service")
+![alt text](https://i.imgur.com/EUEq6qD.png "Good food vs bad service II")
 
 ## Data handling
 We handled the data from Yelp through different steps:
